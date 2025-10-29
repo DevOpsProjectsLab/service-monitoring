@@ -131,6 +131,8 @@ O **Painel de Monitoramento de Serviço** é carregado automaticamente e exibe:
 
 📍 Acesse o Grafana → Dashboards → *Painel de Monitoramento de Serviço*
 
+![Grafana UI](.github/assets/grafana.png)
+
 > ⚠️ Caso o painel apareça como **No data**, realize um **Refresh** no dashboard (ícone 🔄 no topo direito) após realizar o comando **curl** para simular pedidos.  
 > Isso força o Grafana a recarregar as métricas coletadas recentemente pelo Prometheus.
 
